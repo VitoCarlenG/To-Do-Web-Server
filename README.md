@@ -1,2 +1,2 @@
-# To-Do-List-Web-Server
-Server-side web app for To-do List.
+# To-Do-Web-Server
+Server-side web app for To-Do.
